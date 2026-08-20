@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ProjectSettings>
+  <Name value="Kanal42"/>
+  <Version value="1.1.6"/>
+  <Description value="Analog-modeled 4-track cassette effect. Delivers the raw overdrive of classic Japanese multitrack consoles. Features overdriven op-amps, 35Hz headbump, and high-bias tape compression."/>
+  <BundleIdentifier value="com.atomsoundware.kanal42"/>
+  <PluginCode value="Kanl"/>
+  <EmbedAudioFiles value="Yes"/>
+  <EmbedImageFiles value="Yes"/>
+  <SupportFullDynamicsHLAC value="No"/>
+  <AdditionalDspLibraries value=""/>
+  <OSXStaticLibs value=""/>
+  <WindowsStaticLibFolder value=""/>
+  <ExtraDefinitionsWindows value=""/>
+  <ExtraDefinitionsOSX value=""/>
+  <ExtraDefinitionsIOS value=""/>
+  <ExtraDefinitionsLinux value=""/>
+  <ExtraDefinitionsNetworkDll value=""/>
+  <AppGroupID value=""/>
+  <RedirectSampleFolder value=""/>
+  <AAXCategoryFX value="AAX_ePlugInCategory_Modulation"/>
+  <VST3Category value="Distortion"/>
+  <SupportMonoFX value="1"/>
+  <EnableMidiInputFX value="No"/>
+  <EnableMidiOut value="No"/>
+  <EnableSoundGeneratorsFX value="1"/>
+  <VST3Support value="Yes"/>
+  <UseRawFrontend value="No"/>
+  <ExpansionType value="Disabled"/>
+  <EncryptionKey value=""/>
+  <LinkExpansionsToProject value="No"/>
+  <ReadOnlyFactoryPresets value="No"/>
+  <ForceStereoOutput value="1"/>
+  <AdminPermissions value="No"/>
+  <EmbedUserPresets value="Yes"/>
+  <OverwriteOldUserPresets value="1"/>
+  <EnableGlobalPreprocessor value="No"/>
+  <UseGlobalAppDataFolderWindows value="No"/>
+  <UseGlobalAppDataFolderMacOS value="No"/>
+  <DefaultUserPreset value=""/>
+  <CompileWithPerfetto value="No"/>
+  <CompileWithDebugSymbols value="No"/>
+  <IncludeLorisInFrontend value="No"/>
+  <ProjectType value="FX plugin"/>
+</ProjectSettings>

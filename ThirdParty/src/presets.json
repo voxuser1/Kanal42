@@ -1,0 +1,35 @@
+[
+  {
+    "name": "untitled",
+    "preset": {
+      "Bass42": {
+        "value": 0
+      },
+      "Bypass42": {
+        "value": 0
+      },
+      "Drive42": {
+        "value": 0
+      },
+      "DryWet42": {
+        "value": 1
+      },
+      "Kanal116": {
+        "value": 1.16
+      },
+      "Treble42": {
+        "value": 0
+      },
+      "Trim42": {
+        "value": 0
+      },
+      "WetLevel42": {
+        "value": 0
+      },
+      "__sps": {
+        "Bassshelf": {},
+        "Highshelf": {}
+      }
+    }
+  }
+]

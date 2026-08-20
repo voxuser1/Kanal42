@@ -1,0 +1,223 @@
+{
+  "parameters": [
+    {
+      "type": "ParameterTypeNumber",
+      "index": 0,
+      "name": "Trim42",
+      "paramId": "Trim42",
+      "minimum": -24,
+      "maximum": 24,
+      "exponent": 1,
+      "steps": 0,
+      "initialValue": 0,
+      "isEnum": false,
+      "enumValues": [],
+      "displayName": "",
+      "unit": "",
+      "order": 0,
+      "debug": false,
+      "visible": true,
+      "signalIndex": null,
+      "ioType": "IOTypeUndefined"
+    },
+    {
+      "type": "ParameterTypeNumber",
+      "index": 1,
+      "name": "WetLevel42",
+      "paramId": "WetLevel42",
+      "minimum": -24,
+      "maximum": 24,
+      "exponent": 1,
+      "steps": 0,
+      "initialValue": 0,
+      "isEnum": false,
+      "enumValues": [],
+      "displayName": "",
+      "unit": "",
+      "order": 0,
+      "debug": false,
+      "visible": true,
+      "signalIndex": null,
+      "ioType": "IOTypeUndefined"
+    },
+    {
+      "type": "ParameterTypeNumber",
+      "index": 2,
+      "name": "Kanal116",
+      "paramId": "Kanal116",
+      "minimum": 1,
+      "maximum": 2,
+      "exponent": 1,
+      "steps": 0,
+      "initialValue": 1.16,
+      "isEnum": false,
+      "enumValues": [],
+      "displayName": "",
+      "unit": "",
+      "order": 0,
+      "debug": false,
+      "visible": true,
+      "signalIndex": null,
+      "ioType": "IOTypeUndefined"
+    },
+    {
+      "type": "ParameterTypeNumber",
+      "index": 3,
+      "name": "DryWet42",
+      "paramId": "DryWet42",
+      "minimum": 0,
+      "maximum": 1,
+      "exponent": 1,
+      "steps": 0,
+      "initialValue": 1,
+      "isEnum": false,
+      "enumValues": [],
+      "displayName": "",
+      "unit": "",
+      "order": 0,
+      "debug": false,
+      "visible": true,
+      "signalIndex": null,
+      "ioType": "IOTypeUndefined"
+    },
+    {
+      "type": "ParameterTypeNumber",
+      "index": 4,
+      "name": "Bypass42",
+      "paramId": "Bypass42",
+      "minimum": 0,
+      "maximum": 1,
+      "exponent": 1,
+      "steps": 0,
+      "initialValue": 0,
+      "isEnum": false,
+      "enumValues": [],
+      "displayName": "",
+      "unit": "",
+      "order": 0,
+      "debug": false,
+      "visible": true,
+      "signalIndex": null,
+      "ioType": "IOTypeUndefined"
+    },
+    {
+      "type": "ParameterTypeNumber",
+      "index": 5,
+      "name": "Treble42",
+      "paramId": "Treble42",
+      "minimum": -12,
+      "maximum": 12,
+      "exponent": 1,
+      "steps": 0,
+      "initialValue": 0,
+      "isEnum": false,
+      "enumValues": [],
+      "displayName": "",
+      "unit": "",
+      "order": 0,
+      "debug": false,
+      "visible": true,
+      "signalIndex": null,
+      "ioType": "IOTypeUndefined"
+    },
+    {
+      "type": "ParameterTypeNumber",
+      "index": 6,
+      "name": "Bass42",
+      "paramId": "Bass42",
+      "minimum": -12,
+      "maximum": 12,
+      "exponent": 1,
+      "steps": 0,
+      "initialValue": 0,
+      "isEnum": false,
+      "enumValues": [],
+      "displayName": "",
+      "unit": "",
+      "order": 0,
+      "debug": false,
+      "visible": true,
+      "signalIndex": null,
+      "ioType": "IOTypeUndefined"
+    },
+    {
+      "type": "ParameterTypeNumber",
+      "index": 7,
+      "name": "Drive42",
+      "paramId": "Drive42",
+      "minimum": 0,
+      "maximum": 1,
+      "exponent": 1,
+      "steps": 0,
+      "initialValue": 0,
+      "isEnum": false,
+      "enumValues": [],
+      "displayName": "",
+      "unit": "",
+      "order": 0,
+      "debug": false,
+      "visible": true,
+      "signalIndex": null,
+      "ioType": "IOTypeUndefined"
+    }
+  ],
+  "numParameters": 8,
+  "numSignalInParameters": 0,
+  "numSignalOutParameters": 0,
+  "numInputChannels": 2,
+  "numOutputChannels": 2,
+  "numMidiInputPorts": 0,
+  "numMidiOutputPorts": 0,
+  "transportUsed": false,
+  "externalDataRefs": [],
+  "patcherSerial": 0,
+  "inports": [
+    {
+      "tag": "postrender",
+      "meta": ""
+    }
+  ],
+  "outports": [
+    {
+      "tag": "mod",
+      "meta": ""
+    }
+  ],
+  "inlets": [
+    {
+      "type": "signal",
+      "index": 1,
+      "tag": "in1",
+      "meta": ""
+    },
+    {
+      "type": "signal",
+      "index": 2,
+      "tag": "in2",
+      "meta": ""
+    }
+  ],
+  "outlets": [
+    {
+      "type": "signal",
+      "index": 1,
+      "tag": "out1",
+      "meta": ""
+    },
+    {
+      "type": "signal",
+      "index": 2,
+      "tag": "out2",
+      "meta": ""
+    }
+  ],
+  "presetid": "rnbo",
+  "meta": {
+    "architecture": "x64",
+    "filename": "Kanal42VST_1.1.6.maxpat",
+    "rnboobjname": "Kanal42110",
+    "maxversion": "8.6.5",
+    "rnboversion": "1.3.5",
+    "name": "untitled"
+  }
+}
